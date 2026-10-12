@@ -1,0 +1,12 @@
+# Derleme ciktilari
+obj/
+*.o
+*.exe
+
+# Code::Blocks kullaniciya ozel dosyalar
+*.depend
+*.layout
+
+# Program calisirken olusan gecici dosyalar
+gecici.txt
+gecici.dat

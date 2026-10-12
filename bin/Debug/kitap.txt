@@ -1,0 +1,81 @@
+1	1984	George Orwell	Thu May 29 11:14:14 2025
+2	Aklindan Bir Sayi Tut	John Verdon	Fri May 30 18:24:43 2025
+3	Gozlerini Simsiki Kapat	John Verdon	Fri May 30 13:26:51 2025
+4	Seytani Uyandirma	John Verdon	Fri May 30 19:15:59 2025
+5	Hayvan Ciftligi	George Orwell	Fri May 30 19:21:22 2025
+6	Otomatik Portakal	Anthony Burgess	Fri May 30 19:21:43 2025
+7	Bir Omur Nasil Yasanir?	Ilber Ortayli	Fri May 30 19:22:35 2025
+8	On Dun Onceki Kiz	Sezin Karamese	Fri May 30 19:23:11 2025
+9	Gece Yarisi Kutuphanesi	Matt Haig	Fri May 30 19:23:33 2025
+10	Insanlar	Matt Haig	Fri May 30 19:23:51 2025
+11	Cumhuriyetin Ilk Yuzyili	Ilber Ortayli	Fri May 30 19:23:59 2025
+12	Insanin Anlam Arayisi	Viktor E. Frankl	Fri May 30 19:24:20 2025
+13	Veronika Olmek Istiyor	Paulo Coelho	Fri May 30 19:24:52 2025
+14	Koskteki Esrar	Agatha Christie	Fri May 30 19:25:15 2025
+15	Carpik Evdeki Cinayetler	Agatha Christie	Fri May 30 19:25:40 2025
+16	Yasamak	Yu Hua	Fri May 30 19:26:00 2025
+17	Amok Kosucusu	Stefan Zweig	Fri May 30 19:26:07 2025
+18	Olaganustu Bir Gece	Stefan Zweig	Fri May 30 19:26:23 2025
+19	Bir Kadinin Yasamindan 24 Saat	Stefan Zweig	Sun Jun 01 17:29:33 2025
+20	Satranc	Stefan Zweig	Sun Jun 01 17:56:22 2025
+21	Beyaz Dis	Jack London	Sun Jun 01 17:56:36 2025
+22	Korluk	Jose Saramago	Sun Jun 01 17:57:38 2025
+23	Kirmizi Pazartesi	Gabriel Garcia Marquez	Sun Jun 01 17:57:57 2025
+24	Suc ve Ceza	Fyodor Dostoyevski	Sun Jun 01 17:58:30 2025
+25	Seker Portakali	Jose Mauro	Sun Jun 01 17:59:05 2025
+26	Cesur Yeni Dunya	Aldous Huxley	Sun Jun 01 17:59:33 2025
+27	Marti Jonathan Livingston	Richard Bach	Sun Jun 01 17:59:58 2025
+28	Simyaci	Paulo Coelho	Sun Jun 01 18:01:00 2025
+29	Otuz Yedi	Sezin Karamese	Sun Jun 01 18:02:04 2025
+30	Bir Kalbin Cokusu	Stefan Zweig	Sun Jun 01 18:02:27 2025
+31	Fedailerin Kalesi Alamut	Vladimir Bartol	Tue Jun 03 22:37:30 2025
+32	Gunesi Uyandiralim	Jose Mauro De Vasconcelos	Tue Jun 03 22:38:16 2025
+33	Delifisek	Jose Mauro De Vasconcelos	Tue Jun 03 22:38:57 2025
+34	Boru 1	Caglayan Yilmaz	Tue Jun 03 22:41:08 2025
+35	Boru 2	Caglayan Yilmaz	Tue Jun 03 22:41:39 2025
+36	Boru 3	Caglayan Yilmaz	Tue Jun 03 22:41:58 2025
+37	Boru 4	Caglayan Yilmaz	Tue Jun 03 22:42:09 2025
+38	Mu Kitasi	Caglayan Yilmaz	Tue Jun 03 22:42:15 2025
+39	It Barak	Caglayan Yilmaz	Tue Jun 03 22:42:23 2025
+40	Atalar Cengi	Caglayan Yilmaz	Tue Jun 03 22:42:33 2025
+41	Yafesin Kilici	Caglayan Yilmaz	Tue Jun 03 22:42:45 2025
+42	Kurk Mantolu Madonna	Sabahattin Ali	Tue Jun 03 22:42:59 2025
+43	Kuyucakli Yusuf	Sabahattin Ali	Tue Jun 03 22:43:41 2025
+44	Yuzuklerin Efendisi: Yuzuk kardesligi	J.R.R Tolkien	Tue Jun 03 22:44:12 2025
+45	Yuzuklerin Efendisi: Iki Kule	J.R.R Tolkien	Tue Jun 03 22:44:56 2025
+46	Yuzuklerin Efendisi: Kralin Donusu	J.R.R Tolkien	Tue Jun 03 22:45:15 2025
+47	Hobbit	J.R.R Tolkien	Thu Jun 05 12:52:18 2025
+48	Hurin'in Cocuklari	J.R.R Tolkien	Thu Jun 05 12:52:43 2025
+49	Silmarillion	J.R.R Tolkien	Thu Jun 05 12:52:59 2025
+50	Beren ile Luthien	J.R.R Tolkien	Thu Jun 05 12:53:16 2025
+51	Gondolin'in Dususu	J.R.R Tolkien	Thu Jun 05 12:53:31 2025
+52	Rapture Sehri	John Shirley	Thu Jun 05 12:54:15 2025
+53	Don Kisot	Cervantis	Thu Jun 05 12:54:39 2025
+54	Beden Dili	Joe Navarro	Thu Jun 05 12:54:57 2025
+55	Uzun Hikaye	Mustafa Kutlu	Thu Jun 05 12:55:12 2025
+56	Fareler ve Insanlar	John Steinbeck	Thu Jun 05 12:55:28 2025
+57	Araba Sevdasi	Recaizade Mahmut Ekrem	Thu Jun 05 12:55:47 2025
+58	Sol Ayagim	Christy Brown	Thu Jun 05 12:56:05 2025
+59	9. Hariciye Kogusu	Peyami Safa	Thu Jun 05 12:56:59 2025
+60	Felatun Bey ile Rakim Efendi	Ahmet Mithat	Thu Jun 05 12:57:19 2025
+61	Vurun Kahpeye	Halide Edip Adivar	Thu Jun 05 12:57:39 2025
+62	Madam Bovary	Gustave Flaubert	Thu Jun 05 12:58:02 2025
+63	Harry Potter ve Felsefe Tasi	J.K Rowling	Thu Jun 05 12:59:45 2025
+64	Harry Potter ve Sirlar Odasi	J.K Rowling	Thu Jun 05 13:00:33 2025
+65	Harry Potter ve Azkaban Tutsagi	J.K Rowling	Thu Jun 05 13:01:05 2025
+66	Harry Potter ve Ates Kadehi	J.K Rowling	Thu Jun 05 13:02:01 2025
+67	Harry Potter ve Zumruduanka Yoldasligi	J.K Rowling	Thu Jun 05 13:02:12 2025
+68	Harry Potter ve Melez Prensi	J.K Rowling	Thu Jun 05 13:02:37 2025
+69	Harry Potter ve Olum Yadigarlari	J.K Rowling	Thu Jun 05 13:02:50 2025
+70	Sherlock Holmes	Arthur Conan Doyle	Thu Jun 05 13:04:26 2025
+71	Sherlock Holmes 2	Arthur Conan Doyle	Thu Jun 05 13:04:48 2025
+72	Kuralsiz	Roth	Thu Jun 05 13:05:05 2025
+73	Endulus'e Veda	Yavuz Bahadiroglu	Thu Jun 05 13:05:21 2025
+74	Momo	Michael Ende	Thu Jun 05 13:05:42 2025
+75	Genclerle Basbasa	Ord. Prof. Dr. Ali Fuat	Thu Jun 05 13:06:38 2025
+76	Sonuncu Kurban	Agatha Christie	Thu Jun 05 13:07:30 2025
+77	Kapimizdaki Yabancilar	Zygmunt Bauman	Sat Jun 14 22:19:12 2025
+78	Peter Pan Olmeli	John Verdon	Fri Jul 25 17:09:34 2025
+79	Kumarbaz	Fyodor Dostoyevski	Sun Aug 17 18:53:02 2025
+80	Bir Idam Mahkumunun Son Gunu	Victor Hugo	Mon Oct 06 21:09:37 2025
+
